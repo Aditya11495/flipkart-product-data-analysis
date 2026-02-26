@@ -51,4 +51,74 @@ Stock Status
 
 Crawled Date
 
+**Data Cleaning Process**
+
+
+
+Removed unnecessary columns (e.g., index column)
+
+Handled missing values using business logic:
+
+Missing ratings treated as “Not Rated” (filled with 0)
+
+Missing brand and seller filled with “Unknown”
+
+Missing actual price replaced with selling price (assumed no discount)
+
+Converted price columns to numeric format
+
+Created new derived metrics
+
+
+
+**Key KPIs Created**
+
+Total Revenue
+
+Average Selling Price
+
+Discount Amount
+
+Discount Percentage
+
+Revenue by Category
+
+Average Discount by Category
+
+
+
+**Visualizations Performed**
+
+
+Revenue by Category (Bar Chart)
+
+Average Discount % by Category
+
+Selling Price Distribution (Histogram)
+
+Rating Distribution
+
+Discount % vs Selling Price (Scatter Plot)
+
+
+
+**Key Insights**
+
+Identified top revenue-generating categories.
+
+Observed relationship between high discount percentages and pricing levels.
+
+Analyzed product rating distribution across dataset.
+
+Highlighted categories relying heavily on discount strategies.
+
+
+
+**Business Recommendations**
+
+Optimize discount strategy in categories with high revenue but excessive discounting.
+
+Focus on promoting high-rated products to increase conversion.
+
+Monitor pricing structure to maintain competitive positioning without reducing margins excessively.
 
