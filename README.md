@@ -19,4 +19,36 @@ Which categories rely most on discount-based sales?
 
 This project provides data-driven insights to support business decision-making.
 
+**Tech Stack**
+
+Python
+
+Pandas
+
+NumPy
+
+Matplotlib
+
+ **Dataset Features**
+
+Product ID
+
+Category
+
+Sub-category
+
+Brand
+
+Selling Price
+
+Actual Price (MRP)
+
+Average Rating
+
+Seller
+
+Stock Status
+
+Crawled Date
+
 
