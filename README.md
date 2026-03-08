@@ -1,9 +1,9 @@
-**Project Overview**
+# Project Overview
 
 This project is a real-world Data Analyst case study focused on analyzing e-commerce product data to uncover revenue trends, discount strategies, pricing patterns, and category-level performance.
 The objective is to simulate a business scenario where management wants insights into sales performance, pricing effectiveness, and category contribution.
 
-**Business Problem**
+# Business Problem
 
 An e-commerce company wants to answer the following:
 
@@ -19,7 +19,7 @@ Which categories rely most on discount-based sales?
 
 This project provides data-driven insights to support business decision-making.
 
-**Tech Stack**
+# Tech Stack
 
 Python
 
@@ -29,7 +29,7 @@ NumPy
 
 Matplotlib
 
- **Dataset Features**
+ # Dataset Features
 
 Product ID
 
@@ -51,8 +51,7 @@ Stock Status
 
 Crawled Date
 
-**Data Cleaning Process**
-
+# Data Cleaning Process
 
 
 Removed unnecessary columns (e.g., index column)
@@ -71,7 +70,7 @@ Created new derived metrics
 
 
 
-**Key KPIs Created**
+# Key KPIs Created
 
 Total Revenue
 
@@ -101,8 +100,7 @@ Rating Distribution
 Discount % vs Selling Price (Scatter Plot)
 
 
-
-**Key Insights**
+# Key Insights
 
 Identified top revenue-generating categories.
 
@@ -114,7 +112,7 @@ Highlighted categories relying heavily on discount strategies.
 
 
 
-**Business Recommendations**
+# Business Recommendations
 
 Optimize discount strategy in categories with high revenue but excessive discounting.
 
